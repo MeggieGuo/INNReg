@@ -23,7 +23,13 @@ To test the INNReg, run `test.py`
 ## Citation
 
 ```
-@InProceedings{
+@inproceedings{guo2024unsupervised,
+  title={Unsupervised multi-modal medical image registration via invertible translation},
+  author={Guo, Mengjie},
+  booktitle={European Conference on Computer Vision},
+  pages={22--38},
+  year={2024},
+  organization={Springer}
 }
 ```
 
